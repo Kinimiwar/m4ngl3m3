@@ -184,7 +184,7 @@ years/numbers/custom. Output example:
 
 In this parameter we define which mutation methods are going to be performed.
 Mutation methods are **base transformations** made **before** starting iterating
-over years/numbers/symbols/custom. Yo can select as many mutation methods as
+over years/numbers/symbols/custom. You can select as many mutation methods as
 you want. For a list of all valid mutation methods, check: [MUTATION_METHODS.md](MUTATION_METHODS.md).
 By default, **m4ngl3m3!** runs with the following: *Normal, UpperCase, FirstUp and
 ReplaceVowels.*
