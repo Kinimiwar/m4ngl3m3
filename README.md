@@ -8,7 +8,7 @@
 
 ## Quick Installation:
 
-    $ git clone https://github.com/localh0t/m4ngl3m3!
+    $ git clone https://github.com/localh0t/m4ngl3m3
     $ chmod +x main.py
     $ ./main.py
 
